@@ -1,4 +1,4 @@
-##readme
+
 # Jogo de Perguntas - show do milhão
 ## Este projeto é o desenvolvimento de uma aplicação em React que usou Redux como ferramenta de manipulação de estado.
 
