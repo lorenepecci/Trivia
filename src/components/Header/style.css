@@ -1,0 +1,17 @@
+.container-header {
+  background-color: rgb(132, 44, 139);
+  color: white;
+  display: flex;
+  height: 10vh;
+  width: 100vw;
+}
+
+.container-header img {
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.container-header p {
+  padding-left: 80%;
+  padding-top: 3px;
+}

@@ -1,0 +1,56 @@
+.questionsContainer {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.questionCard {
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 1em rgb(132, 44, 139);
+  display: flex;
+  flex-direction: column;
+  max-width: 30vw;
+  padding: 15px;
+}
+
+.options button {
+  background-color: #ccc;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.correctAnswer {
+  border: 3px solid rgb(6, 240, 15);
+}
+
+.wrongAnswer {
+  border: 3px solid red;
+}
+
+.btnNext {
+  display: flex;
+  justify-content: center;
+}
+
+.btnNext button {
+  align-items: center;
+  background-color: rgb(132, 44, 139);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-right: 5px;
+  margin-top: 12px;
+  padding: 10px;
+  width: 50%;
+}
+
+.btnNext button:hover {
+  filter: brightness(0.9);
+  transition: 0.2s;
+}

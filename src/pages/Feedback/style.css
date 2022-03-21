@@ -1,0 +1,48 @@
+.container-feedback {
+  height: 100vh;
+  width: 100vw;
+}
+
+.container-feedback button {
+  background-color: rgb(132, 44, 139);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin-right: 10px;
+  margin-top: 32px;
+  padding: 10px 15px;
+}
+
+.container-feedback button:hover {
+  filter: brightness(0.8);
+  transition: 0.2s;
+}
+
+.totalQuestion {
+  font-size: 1.5em;
+  padding-top: 30px;
+}
+
+.totalQuestion span {
+  color: rgb(136, 42, 165);
+  font-weight: 700;
+}
+
+.text {
+  color: blueviolet;
+  font-size: 3em;
+  font-weight: 700;
+}
+
+.totalScore {
+  align-items: center;
+  background-color: rgb(132, 44, 139);
+  border: 2px solid rgb(240, 224, 10);
+  border-radius: 5px;
+  color: rgb(240, 224, 10);
+  font-weight: 700;
+  line-height: 1em;
+  margin-left: 500px;
+  padding: 10px 15px 8px;
+  width: 20%;
+}

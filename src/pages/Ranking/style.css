@@ -1,0 +1,47 @@
+.container-ranking {
+  align-items: center;
+  display: inline-block;
+  justify-content: center;
+  padding: 20px 30px;
+}
+
+.container-ranking h1 {
+  color: purple;
+  display: inline-block;
+  width: 100%;
+}
+
+.container-ranking button {
+  background-color: rgb(132, 44, 139);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+  margin-right: 5px;
+  margin-top: 12px;
+  padding: 10px;
+  width: 20%;
+}
+
+.container-ranking button:hover {
+  filter: brightness(0.9);
+  transition: 0.2s;
+}
+
+.container-ranking section {
+  background-color: rgb(99, 211, 205);
+  border: 2px solid rgb(44, 139, 134);
+  border-radius: 5px;
+  display: inline-block;
+  height: 300px;
+  padding: 60px 15px 28px;
+  width: 300px;
+}
+
+.item-section {
+  background-color: purple;
+  border: 3px solid rgb(44, 139, 134);
+  border-radius: 30px;
+  color: white;
+  padding: 5px 10px;
+}
