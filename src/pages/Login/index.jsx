@@ -97,7 +97,7 @@ class Login extends Component {
               Jogar
 
             </button>
-
+            {/*
             <button
               data-testid="btn-settings"
               type="button"
@@ -105,7 +105,7 @@ class Login extends Component {
             >
               Settings
 
-            </button>
+            </button> */}
 
           </form>
         </div>
