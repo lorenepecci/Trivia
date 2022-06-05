@@ -5,7 +5,6 @@
 Veja a [documentação da API](https://opentdb.com/api_config.php).
 
 ## Habilidades
-- Trabalho em grupo: comunicação assertiva, resiliência e empatia
 
 - Criar um store Redux em aplicações React
 
