@@ -35,5 +35,5 @@ Veja a [documentação da API](https://opentdb.com/api_config.php).
 ## Autores
 - Cristina Camilo https://github.com/cristinacamilolima
 - Laécio Silva https://github.com/Laecio12
-- Lorene Pecci
+- Lorene Pecci - este repositório.
 
