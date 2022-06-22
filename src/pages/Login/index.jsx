@@ -95,7 +95,6 @@ class Login extends Component {
               disabled={ isDisabled }
             >
               Jogar
-
             </button>
             {/*
             <button
